@@ -23,4 +23,4 @@ A Python application (with Tkinter for GUI) to convert modern Irish text for dis
 <br>
 <br>
 <h2>Credit:</h2>
-gaeilge.ttf (Gaeilge 2) font made available to the Public Domain by Padraig McCarthy at https://fonts2u.com/gaeilge-2-normal.font
+gaeilge.ttf (Gaeilge 2) font made available to the Public Domain by Padraig McCarthy (1993) and Fios Feasa (1997) at https://fonts2u.com/gaeilge-2-normal.font
